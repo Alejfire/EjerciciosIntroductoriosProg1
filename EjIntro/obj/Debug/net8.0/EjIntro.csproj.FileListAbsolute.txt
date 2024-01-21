@@ -1,0 +1,14 @@
+C:\Users\aleja\source\repos\EjIntro\EjIntro\obj\Debug\net8.0\EjIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\EjIntro\EjIntro\obj\Debug\net8.0\EjIntro.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\EjIntro\EjIntro\obj\Debug\net8.0\EjIntro.AssemblyInfo.cs
+C:\Users\aleja\source\repos\EjIntro\EjIntro\obj\Debug\net8.0\EjIntro.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\EjIntro\EjIntro\bin\Debug\net8.0\EjIntro.exe
+C:\Users\aleja\source\repos\EjIntro\EjIntro\bin\Debug\net8.0\EjIntro.deps.json
+C:\Users\aleja\source\repos\EjIntro\EjIntro\bin\Debug\net8.0\EjIntro.runtimeconfig.json
+C:\Users\aleja\source\repos\EjIntro\EjIntro\bin\Debug\net8.0\EjIntro.dll
+C:\Users\aleja\source\repos\EjIntro\EjIntro\bin\Debug\net8.0\EjIntro.pdb
+C:\Users\aleja\source\repos\EjIntro\EjIntro\obj\Debug\net8.0\EjIntro.dll
+C:\Users\aleja\source\repos\EjIntro\EjIntro\obj\Debug\net8.0\refint\EjIntro.dll
+C:\Users\aleja\source\repos\EjIntro\EjIntro\obj\Debug\net8.0\EjIntro.pdb
+C:\Users\aleja\source\repos\EjIntro\EjIntro\obj\Debug\net8.0\EjIntro.genruntimeconfig.cache
+C:\Users\aleja\source\repos\EjIntro\EjIntro\obj\Debug\net8.0\ref\EjIntro.dll
